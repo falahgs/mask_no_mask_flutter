@@ -1,4 +1,4 @@
-# 1001 Classification Flutter
+# Mask or NOt Mask Flutter
 
 A new Flutter project.
 
